@@ -1,4 +1,4 @@
-# First constraints on QCD axion dark matter using James Webb Space Telescope blank-sky observations
+# First constraints on QCD axion dark matter using James Webb Space Telescope observations
 Dataset and bounds for the paper arXiv:
 # Abstract
 I present the first constraints on QCD axion dark matter using measurements from the James
